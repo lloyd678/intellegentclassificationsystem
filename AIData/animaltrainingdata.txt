@@ -1,0 +1,33 @@
+4,scales,medium,no,yes,reptile	
+4,scales,large,	no,yes,reptile
+4,scales,medium,yes,no,reptile
+4,scales,medium,yes,yes,reptile	
+0,scales,small,	yes,no,reptile
+0,scales,medium,yes,no,reptile
+4,scales,large,	yes,yes,reptile	
+0,scales,small,no,yes,fish			
+0,scales,small,yes,yes,fish
+0,scales,medium,no,yes,fish		
+0,scales,small,no,yes,fish
+0,scales,medium,yes,yes,fish			
+0,scales,large,	no,yes,fish
+4,skin,	small,yes,no,mammal
+4,fur,large,no,no,mammal
+2,skin,large,yes,yes,mammal
+4,fur,large,yes,yes,mammal			
+0,skin,medium,yes,yes,mammal
+0,skin,medium,yes,yes,mammal			
+0,skin,large,yes,yes,mammal
+0,skin,medium,yes,yes,mammal		
+4,fur,medium,yes,no,mammal			
+4,fur,large,no,no,mammal
+4,fur,small,yes,no,mammal
+4,fur,small,no,no,mammal
+4,fur,small,no,yes,mammal
+2,feathers,small,no,yes,bird		
+2,feathers,medium,yes,no,bird
+2,feathers,medium,yes,no,bird		
+2,feathers,small,no,yes,bird
+2,feathers,large,yes,no,bird			
+2,feathers,medium,yes,no,bird
+
